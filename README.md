@@ -11,7 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jokumar](https://github.com/jokumar)
 
-- 📝Sometimes I write articles on [https://dzone.com/users/2654372/joy2015.html,https://www.codementor.io/joydipkumar,https://www.knowledgehut.com/blog/author/joydip-kumar](https://dzone.com/users/2654372/joy2015.html,https://www.codementor.io/joydipkumar,https://www.knowledgehut.com/blog/author/joydip-kumar)
+- 📝Sometimes I write articles on   
+  - [https://medium.com/@joydipkumar](https://medium.com/@joydipkumar)
+  - [https://dzone.com/users/2654372/joy2015.html](https://dzone.com/users/2654372/joy2015.html)
+  - [https://www.codementor.io/joydipkumar](https://www.codementor.io/joydipkumar)
+  - [https://www.knowledgehut.com/blog/author/joydip-kumar](https://www.knowledgehut.com/blog/author/joydip-kumar)    
 
 - 💬 Ask me about **Java, Springboot, Microservice Architecture, Docker, Kubernetes**
 
